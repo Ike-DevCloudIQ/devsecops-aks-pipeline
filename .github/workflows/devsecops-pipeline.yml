@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 env:
-  IMAGE_NAME: medaminehlali/gitops-sonarqube-aks-pipeline
+  IMAGE_NAME: emekaezedozie276/devsecops-aks-pipeline
   IMAGE_TAG: ${{ github.run_number }}
 
 jobs:
