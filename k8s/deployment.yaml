@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: supermario
-        image: emekaezedozie276/devsecops-aks-pipeline:1
+        image: emekaezedozie276/devsecops-aks-pipeline:3
         ports:
         - containerPort: 8080
         resources:
