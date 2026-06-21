@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: supermario
-        image: emekaezedozie276/devsecops-aks-pipeline:${IMAGE_TAG}
+        image: medaminehlali/gitops-sonarqube-aks-pipeline:1
         ports:
         - containerPort: 8080
         resources:
