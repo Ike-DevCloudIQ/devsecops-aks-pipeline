@@ -12,6 +12,7 @@ spec:
       labels:
         app: supermario-app
     spec:
+      automountServiceAccountToken: false
       containers:
       - name: supermario
         image: emekaezedozie276/devsecops-aks-pipeline:6
