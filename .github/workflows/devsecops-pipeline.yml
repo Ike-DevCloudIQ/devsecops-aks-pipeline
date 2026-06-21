@@ -51,7 +51,6 @@ jobs:
 
       - name: Push Docker Image
         run: docker push $IMAGE_NAME:$IMAGE_TAG
-
   scan_container_image:
     name: Scan Container Image
     runs-on: ubuntu-latest

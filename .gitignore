@@ -2,3 +2,6 @@
 *.tfstate
 *.tfstate.backup
 .terraform.lock.hcl
+# macOS
+.DS_Store
+**/.DS_Store
