@@ -12,6 +12,12 @@ COPY webapp/ /usr/local/tomcat/webapps/ROOT/
 # Change the default shell to bash
 RUN ln -sf /bin/bash /bin/sh
 
+# Create and switch to a non-root user for runtime hardening
+RUN addgroup -S appgroup \
+    && adduser -S -G appgroup appuser \
+    && chown -R appuser:appgroup /usr/local/tomcat
+USER appuser
+
 # Expose the default Tomcat port
 EXPOSE 8080
 
