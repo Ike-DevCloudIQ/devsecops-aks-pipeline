@@ -15,7 +15,7 @@ spec:
       automountServiceAccountToken: false
       containers:
       - name: supermario
-        image: emekaezedozie276/devsecops-aks-pipeline:8
+        image: emekaezedozie276/devsecops-aks-pipeline:9
         ports:
         - containerPort: 8080
         resources:
