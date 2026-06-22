@@ -100,3 +100,18 @@ kubectl apply -f k8s/
 ```
 
 > ⚠️ In normal operation Argo CD owns these resources. Manual edits to live objects will be reverted to match Git on the next sync.
+
+## 👤 Author
+
+**Ikenna Ubah** — Cloud / DevSecOps Platform Engineer
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ike--DevCloudIQ-181717?logo=github)](https://github.com/Ike-DevCloudIQ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ikenna%20Ubah-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikenna2/)
+
+> ⭐ If you found this project useful or insightful, please consider starring the repository.
+
+---
+
+<div align="center">
+<sub>Built with Terraform · GitHub Actions · SonarCloud · Trivy · Argo CD · Azure Kubernetes Service</sub>
+</div>
