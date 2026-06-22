@@ -118,3 +118,17 @@ The application manifests Argo CD manages are documented in [`k8s/README.md`](..
 ```bash
 terraform destroy -auto-approve
 ```
+## 👤 Author
+
+**Ikenna Ubah** — Cloud / DevSecOps Platform Engineer
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ike--DevCloudIQ-181717?logo=github)](https://github.com/Ike-DevCloudIQ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ikenna%20Ubah-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikenna2/)
+
+> ⭐ If you found this project useful or insightful, please consider starring the repository.
+
+---
+
+<div align="center">
+<sub>Built with Terraform · GitHub Actions · SonarCloud · Trivy · Argo CD · Azure Kubernetes Service</sub>
+</div>
