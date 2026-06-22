@@ -1,6 +1,6 @@
 # DevSecOps GitOps Platform on Azure AKS — Project Showcase
 
-> A recruiter- and hiring-manager-friendly walkthrough of a production-style DevSecOps platform I designed, built, secured, and operated end to end.
+> A walkthrough of a production-style DevSecOps platform I designed, built, secured, and operated end to end.
 >
 > 👤 **Ikenna Ubah** — Cloud / DevSecOps & Platform Engineer
 > 🔗 [LinkedIn](https://www.linkedin.com/in/ikenna2/) · [GitHub](https://github.com/Ike-DevCloudIQ)
